@@ -4,3 +4,14 @@
 node_modules
 dist
 .cache
+404.html
+LICENSE.txt
+package.json
+package-lock.json
+robots.txt
+site.webmanifest
+webpack.config.dev.js
+webpack.common.js
+webpack.config.prod.js
+.gitattributes
+.editorconfig
