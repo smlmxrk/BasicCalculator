@@ -1,17 +1,17 @@
-# Include your project-specific ignores in this file
-# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
-# Useful .gitignore templates: https://github.com/github/gitignore
+# Ignore dependencies and build files
 node_modules
 dist
 .cache
+
+# Ignore specific files
 404.html
 LICENSE.txt
 package.json
 package-lock.json
 robots.txt
 site.webmanifest
-webpack.config.dev.js
-webpack.common.js
+
+# Ignore configuration files
+config.dev.js
+common.js
 webpack.config.prod.js
-.gitattributes
-.editorconfig
