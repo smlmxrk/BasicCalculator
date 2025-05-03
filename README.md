@@ -1,1 +1,4 @@
-Extremely basic calculator app, made while learning HTML, CSS, and JavaScript
+Calculator application made using HTML, CSS, and JavaScript.
+
+![img.png](img.png)![img_1.png](img_1.png)
+
