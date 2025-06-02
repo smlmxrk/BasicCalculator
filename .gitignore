@@ -4,6 +4,7 @@ dist
 .cache
 .editorconfig
 .gitattributes
+.idea
 
 # Ignore specific files
 404.html
